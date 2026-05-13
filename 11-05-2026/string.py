@@ -43,5 +43,6 @@ age = 26;
 # print("My name is ",name, "My age is ",age);
 # print(f"my name is {name} and my age is {age}");
 
-newAge = input("Hello what is your age");
+newAge = int(input("Hello what is your age"));
 print(f"My age is {newAge}");
+print(type(newAge))
