@@ -29,11 +29,19 @@ else:
 #     print(f"Second number is greater {secondNum}");
 
 
-gender = str(input("Select a gender "));
-if (gender == 'Male') or (gender == 'male'):
-    print("Good Morning sir");
-elif (gender == 'Female') or (gender == 'female'):
-    print("Good Morning mam");
-else:
-    print('Wrong input');
+# gender = str(input("Select a gender "));
+# if (gender == 'Male') or (gender == 'male'):
+#     print("Good Morning sir");
+# elif (gender == 'Female') or (gender == 'female'):
+#     print("Good Morning mam");
+# else:
+#     print('Wrong input');
 
+
+
+# num = int(input('Enter a number '));
+# if num % 2 == 0:
+#     print(f"{num} is a even number");
+# else:
+#     print(f"{num} is a odd number");
+    
